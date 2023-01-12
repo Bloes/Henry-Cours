@@ -1,10 +1,9 @@
 var listaDecompras = [];
 listaDecompras[3] = 'Tomates';
 listaDecompras[1] = 'Lechuga';
+console.log(listaDecompras.length);
 
 //******************************************** */
-
-console.log(listaDecompras.length);
 
 var elementoDeArray = listaDecompras[1];
 console.log(elementoDeArray);

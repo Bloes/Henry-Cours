@@ -21,3 +21,12 @@ function cuidadoconlaconsalelog(nombre){
     console.log(nombre);
     return nombre;
 }
+//*----------------------------------------/*
+
+var x = 3;
+var y = 5;
+function suma(x,y){
+    suma= x+y;
+    return suma;
+}
+console.log(suma); 
