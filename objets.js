@@ -51,6 +51,20 @@ for (var prop in mundo){                                      //for in sirve par
     console.log('El valor de esta propiedad es: ' + mundo[prop]);
 };
 
+/****************************************************************************************** */
+
+var mascota = {
+    animal: 'mamifero',
+    raza: 'siberiano',
+    edad: 20,
+    peso: 100,
+    amistoso: true,
+    info: function(){
+        console.log('\n Es de raza\n' , this.raza);
+        
+}}
+mascota.info(); 
+
 
 
 
