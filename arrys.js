@@ -67,7 +67,7 @@ console.log(palabraSeparada);
 var palabraArreglada = palabraArreglada.join('');
 console.log(palabraArreglada);
 
-//FOREACH
+//FOREACH RECORRER
 var numeros = [1,2,3];
 numeros.forEach((num) => { console.log(num)});
 
