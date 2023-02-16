@@ -35,4 +35,4 @@ arrayNumerosF = [1.1,2.2];
 
 arrayInvalido = ['a',5,-1,"texto",1.1];    //Los array son de un tipo de lista 
 
-arrayArray = [[1,2,3],[4,5,6],[7,8,9]];
+arrayArray = [[1,2,3],[4,5,6],[7,8,9]];    //Contiene varios arrays
